@@ -10,3 +10,5 @@
 
 [1]: http://tampermonkey.net/ "Tampermonkey"
 [2]: https://greasyfork.org/zh-CN/scripts/496357 "Hide purchased materials"
+![PixPin_2024-05-28_19-28-05](https://github.com/asteltis/Hide-clip-studio-assets-purchased-materials/assets/145424226/8f44ef59-6be9-462a-bfcb-d9819bb9ad0e)
+![PixPin_2024-05-28_19-29-39](https://github.com/asteltis/Hide-clip-studio-assets-purchased-materials/assets/145424226/68608fd4-433d-48ff-88e8-411690642088)
