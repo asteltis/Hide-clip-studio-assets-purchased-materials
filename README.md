@@ -9,4 +9,4 @@
 3. 刷新下素材商店，即可生效。（仅支持网页端）
 
 [1]: http://tampermonkey.net/ "Tampermonkey"
-[2]: https:// "Hide purchased materials"
+[2]: https://greasyfork.org/zh-CN/scripts/496357 "Hide purchased materials"
