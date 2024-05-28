@@ -1,4 +1,4 @@
-# 隐藏csp素材商店已下载素材
+# 隐藏clip studio assets已下载素材
 ## 功能
 1. 隐藏clip studio assets上已下载的素材，方便浏览下载其他素材
 
